@@ -6,19 +6,44 @@
 
 <p align="center">
   <a href="https://zkm.de"><img src="https://img.shields.io/badge/ZKM-Karlsruhe-blue" alt="ZKM"></a>
+  <a href="https://publiccode.eu"><img src="https://img.shields.io/badge/Public%20Money-Public%20Code-blue" alt="Public Money Public Code"></a>
 </p>
 
 <p align="center">
   <strong>Open source tools and research from ZKM | Center for Art and Media Karlsruhe</strong>
 </p>
 
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/ZKM_Center_for_Art_and_Media_Karlsruhe">Wikipedia</a> ·
+  <a href="https://www.instagram.com/zkmkarlsruhe/">Instagram</a> ·
+  <a href="https://www.youtube.com/user/ZKMkarlsruhe">YouTube</a> ·
+  <a href="https://www.linkedin.com/company/zkm-zentrum-f%C3%BCr-kunst-und-medien">LinkedIn</a> ·
+  <a href="https://www.facebook.com/zkmkarlsruhe">Facebook</a>
+</p>
+
 ---
 
-This repository serves as a central index for all ZKM open source projects and provides templates for maintaining consistent branding and documentation.
+## About ZKM
+
+The **ZKM | Center for Art and Media Karlsruhe** is a cultural institution founded in 1989 in Karlsruhe, Germany. It is one of the world's largest centers for media art, combining a museum, research institute, and production facility under one roof.
+
+ZKM explores the intersection of art, science, and technology — preserving digital art, developing new forms of artistic expression, and researching the impact of media on society.
+
+## Why Open Source?
+
+ZKM is publicly funded by the State of Baden-Württemberg and the City of Karlsruhe. We believe in **Public Money, Public Code** — software developed with public funds should be publicly available.
+
+By open sourcing our tools, we:
+- Share knowledge with the cultural and research community
+- Enable other institutions to build on our work
+- Ensure transparency in publicly funded development
+- Contribute back to the open source ecosystem we rely on
+
+---
+
+## Projects
 
 **Platforms:** [GitHub](https://github.com/zkmkarlsruhe) (public releases) | [GitLab](https://git.zkm.de) (development)
-
----
 
 ## Quick Links
 
@@ -216,4 +241,9 @@ Copyright (c) 2026 ZKM | Karlsruhe
 
 ## Contact
 
-- **ZKM:** [zkm.de](https://zkm.de)
+- **Website:** [zkm.de](https://zkm.de)
+- **Wikipedia:** [ZKM Center for Art and Media Karlsruhe](https://en.wikipedia.org/wiki/ZKM_Center_for_Art_and_Media_Karlsruhe)
+- **Instagram:** [@zkmkarlsruhe](https://www.instagram.com/zkmkarlsruhe/)
+- **YouTube:** [ZKMkarlsruhe](https://www.youtube.com/user/ZKMkarlsruhe)
+- **LinkedIn:** [ZKM](https://www.linkedin.com/company/zkm-zentrum-f%C3%BCr-kunst-und-medien)
+- **Facebook:** [zkmkarlsruhe](https://www.facebook.com/zkmkarlsruhe)
