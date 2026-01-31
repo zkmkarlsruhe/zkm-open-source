@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/zkm-logo.svg" alt="ZKM" width="200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/zkm-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/zkm-logo.svg">
+    <img alt="ZKM" src="assets/zkm-logo.svg" width="200">
+  </picture>
 </p>
 
 <h1 align="center">ZKM Open Source</h1>
@@ -189,9 +193,15 @@ cp templates/LICENSE-BSD your-repo/LICENSE
 cp templates/CONTRIBUTING.md your-repo/CONTRIBUTING.md
 ```
 
-**For hotlinking the logo:**
-```markdown
-![ZKM](https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg)
+**For hotlinking the logo (with dark/light mode):**
+```html
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
+    <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
+  </picture>
+</p>
 ```
 
 ### Available Templates
@@ -211,14 +221,13 @@ cp templates/CONTRIBUTING.md your-repo/CONTRIBUTING.md
 <!-- ZKM Badge -->
 [![ZKM](https://img.shields.io/badge/ZKM-Karlsruhe-blue)](https://zkm.de)
 
-<!-- With Logo (hotlinked from this repo) -->
-![ZKM](https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg)
-
 <!-- License Badges -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![License: BSD](https://img.shields.io/badge/License-BSD-blue.svg)](LICENSE)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 ```
+
+See [docs/badges.md](docs/badges.md) for complete badge reference including logo variants.
 
 ### Standard Copyright
 

@@ -2,12 +2,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="83 0 100 42">
   <defs>
     <style>
-      .outline { fill: #1d1d1b; }
-      .inner { fill: #fff; }
+      .outline { fill: #ffffff; }
+      .inner { fill: #1d1d1b; }
     </style>
   </defs>
-  <!-- Icon outline (rounded badge) -->
+  <!-- Icon outline (rounded badge) - white for dark backgrounds -->
   <path class="outline" d="M182.5,31.9V9.9c0-5.4-4.4-9.9-9.9-9.9h-25.7c-1.8,0-3.7.5-5.3,1.4l-5.1,3.1c-1.8-2.7-4.8-4.5-8.3-4.5,0,0-29.9,0-29.9,0h0c-3.2,0-6.2,1.7-8,4.3l-14.9,22c-2,3-2.2,6.9-.5,10.1,1.7,3.2,5.1,5.2,8.7,5.2h24.5c3.3,0,6.3-1.6,8.2-4.3h0c1.8,2.6,4.8,4.3,8.3,4.3h3.6c3.5,0,6.5-1.8,8.3-4.5l5.1,3.1c1.6,1,3.3,1.4,5.1,1.4h25.9c5.4,0,9.9-4.4,9.9-9.9"/>
-  <!-- Inner white elements (stripes and arrow) -->
+  <!-- Inner dark elements (stripes and arrow) -->
   <path class="inner" d="M172.4,31.9h-3.5V9.9h3.5v22ZM163.8,31.9h-3.5V9.9h3.5v22ZM155.3,31.9h-3.5V9.9h3.5v22ZM146.6,31.9l-15.1-9.2v-3.7l15.1-9.2v4l-11.3,6.7v.7l11.3,6.7v4ZM128.4,31.9h-3.5V9.9h3.5v22ZM122,9.9l-14.9,22h-4.1l14.9-22h4.1ZM112.3,9.9l-14.9,22h-4.1l14.9-22h4.1ZM102.7,9.9l-14.9,22h-4.1l14.9-22h4.1Z"/>
 </svg>
