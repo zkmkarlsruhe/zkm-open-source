@@ -4,54 +4,51 @@ Copy-paste badges for ZKM projects.
 
 ---
 
-## "Funded by" Section (with Logo)
+## "Developed at" Section (with Logo)
 
-Place this at the **bottom** of your README, after License/Acknowledgments. The logo automatically switches between dark and light versions based on the user's color scheme preference.
+Place this at the **bottom** of your README, after License. The logo automatically switches between dark and light versions based on the user's color scheme preference.
 
 ```markdown
-## Funded by
+## Developed at
 
-<p align="center">
-  <a href="https://zkm.de">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
-      <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
-    </picture>
-  </a>
-</p>
+This project is developed at [ZKM | Center for Art and Media Karlsruhe](https://zkm.de), a publicly funded cultural institution exploring the intersection of art, science, and technology.
+
+<a href="https://zkm.de">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
+    <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
+  </picture>
+</a>
+
+Copyright (c) 2026 ZKM | Karlsruhe
 ```
 
 ### GitLab Version
 
 ```markdown
-## Funded by
+## Developed at
 
-<p align="center">
-  <a href="https://zkm.de">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo.svg">
-      <img alt="ZKM" src="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo.svg" width="120">
-    </picture>
-  </a>
-</p>
-```
+This project is developed at [ZKM | Center for Art and Media Karlsruhe](https://zkm.de), a publicly funded cultural institution exploring the intersection of art, science, and technology.
 
-### Simple (No Dark Mode)
+<a href="https://zkm.de">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo.svg">
+    <img alt="ZKM" src="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo.svg" width="120">
+  </picture>
+</a>
 
-```markdown
-## Funded by
-
-[![ZKM](https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg)](https://zkm.de)
+Copyright (c) 2026 ZKM | Karlsruhe
 ```
 
 ---
 
-## Organization Badge
+## Organization Badges
 
 ```markdown
 [![ZKM](https://img.shields.io/badge/ZKM-Karlsruhe-blue)](https://zkm.de)
+[![ZKM Open Source](https://img.shields.io/badge/ZKM-Open%20Source-blue)](https://github.com/zkmkarlsruhe)
 ```
 
 ---
@@ -94,11 +91,10 @@ Place this at the **bottom** of your README, after License/Acknowledgments. The 
 # Project Name
 
 [![ZKM](https://img.shields.io/badge/ZKM-Karlsruhe-blue)](https://zkm.de)
+[![ZKM Open Source](https://img.shields.io/badge/ZKM-Open%20Source-blue)](https://github.com/zkmkarlsruhe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > One-line description
-
-Part of [ZKM Open Source](https://github.com/zkmkarlsruhe)
 
 ---
 
@@ -113,17 +109,17 @@ MIT License - see [LICENSE](LICENSE)
 
 ---
 
-## Funded by
+## Developed at
 
-<p align="center">
-  <a href="https://zkm.de">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
-      <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
-    </picture>
-  </a>
-</p>
+This project is developed at [ZKM | Center for Art and Media Karlsruhe](https://zkm.de), a publicly funded cultural institution exploring the intersection of art, science, and technology.
+
+<a href="https://zkm.de">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
+    <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
+  </picture>
+</a>
 
 Copyright (c) 2026 ZKM | Karlsruhe
 ```
