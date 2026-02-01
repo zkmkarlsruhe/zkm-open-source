@@ -1,11 +1,10 @@
 # Project Name
 
 [![ZKM](https://img.shields.io/badge/ZKM-Karlsruhe-blue)](https://zkm.de)
+[![ZKM Open Source](https://img.shields.io/badge/ZKM-Open%20Source-blue)](https://github.com/zkmkarlsruhe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > One-line description of what this project does
-
-Part of [ZKM Open Source](https://github.com/zkmkarlsruhe)
 
 ---
 
