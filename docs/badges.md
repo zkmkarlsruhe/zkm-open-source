@@ -4,35 +4,46 @@ Copy-paste badges for ZKM projects.
 
 ---
 
-## Logo (Dark/Light Mode)
+## "Funded by" Section (with Logo)
 
-The logo automatically switches between dark and light versions based on the user's color scheme preference.
+Place this at the **bottom** of your README, after License/Acknowledgments. The logo automatically switches between dark and light versions based on the user's color scheme preference.
 
 ```markdown
-<!-- Centered with dark/light mode support -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
-    <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
-  </picture>
-</p>
+## Funded by
 
-<!-- GitLab version -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo.svg">
-    <img alt="ZKM" src="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo.svg" width="120">
-  </picture>
+  <a href="https://zkm.de">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
+      <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
+    </picture>
+  </a>
+</p>
+```
+
+### GitLab Version
+
+```markdown
+## Funded by
+
+<p align="center">
+  <a href="https://zkm.de">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo.svg">
+      <img alt="ZKM" src="https://git.zkm.de/zkm-open-source/-/raw/main/assets/zkm-logo.svg" width="120">
+    </picture>
+  </a>
 </p>
 ```
 
 ### Simple (No Dark Mode)
 
 ```markdown
-<!-- Single version (use only if dark mode isn't needed) -->
-![ZKM](https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg)
+## Funded by
+
+[![ZKM](https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg)](https://zkm.de)
 ```
 
 ---
@@ -77,21 +88,42 @@ The logo automatically switches between dark and light versions based on the use
 
 ---
 
-## Complete Header Example
+## Complete README Example
 
 ```markdown
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
-    <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
-  </picture>
-</p>
-
 # Project Name
 
 [![ZKM](https://img.shields.io/badge/ZKM-Karlsruhe-blue)](https://zkm.de)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > One-line description
+
+Part of [ZKM Open Source](https://github.com/zkmkarlsruhe)
+
+---
+
+## Features
+...
+
+---
+
+## License
+
+MIT License - see [LICENSE](LICENSE)
+
+---
+
+## Funded by
+
+<p align="center">
+  <a href="https://zkm.de">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
+      <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
+    </picture>
+  </a>
+</p>
+
+Copyright (c) 2026 ZKM | Karlsruhe
 ```
