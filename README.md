@@ -67,20 +67,20 @@ Core libraries and applications for AI/ML in creative contexts.
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [**ofxTensorFlow2**](https://github.com/zkmkarlsruhe/ofxTensorFlow2) | 119 | TensorFlow 2 wrapper for openFrameworks. |
-| [**language-identification**](https://github.com/zkmkarlsruhe/language-identification) | 41 | Spoken language detection using deep learning. |
-| [**YoloOSC**](https://github.com/zkmkarlsruhe/YoloOSC) | 22 | Real-time YOLO object detection with OSC output. |
-| [**Styler**](https://github.com/zkmkarlsruhe/Styler) | 6 | Neural style transfer for images, video, and camera. |
 | [**HandTracker**](https://github.com/zkmkarlsruhe/HandTracker) | 6 | Hand tracking using ofxTensorFlow2. |
+| [**language-identification**](https://github.com/zkmkarlsruhe/language-identification) | 41 | Spoken language detection using deep learning. |
 | [**LanguageIdentifier**](https://github.com/zkmkarlsruhe/LanguageIdentifier) | 1 | Language identification app (openFrameworks). |
+| [**ofxTensorFlow2**](https://github.com/zkmkarlsruhe/ofxTensorFlow2) | 119 | TensorFlow 2 wrapper for openFrameworks. |
+| [**Styler**](https://github.com/zkmkarlsruhe/Styler) | 6 | Neural style transfer for images, video, and camera. |
+| [**YoloOSC**](https://github.com/zkmkarlsruhe/YoloOSC) | 22 | Real-time YOLO object detection with OSC output. |
 
 ### REST APIs (GitLab)
 
 | Project | Description |
 |---------|-------------|
-| [Stable Diffusion API](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/stable-diffusion-api) | REST API for Stable Diffusion image generation. |
 | [Automatic Speech Recognition](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/automatic-speech-recognition) | Speech-to-text transcription API. |
 | [Detoxify REST API](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/detoxify-rest-api) | Text toxicity detection API. |
+| [Stable Diffusion API](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/stable-diffusion-api) | REST API for Stable Diffusion image generation. |
 
 ---
 
@@ -90,13 +90,14 @@ Tools for running exhibitions, managing displays, and visitor interaction.
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [**baton**](https://github.com/zkmkarlsruhe/baton) | 4 | UDP/WebSocket message relay. |
+| [**exhibition-vm-controller**](https://github.com/zkmkarlsruhe/exhibition-vm-controller) | - | VM management for digital art conservation. |
 | [**filterdns**](https://github.com/zkmkarlsruhe/filterdns) | - | Self-hosted DNS filtering with per-profile config. |
 | [**filterdns-client**](https://github.com/zkmkarlsruhe/filterdns-client) | - | Desktop client for FilterDNS (Linux/macOS/Windows). |
-| [**exhibition-vm-controller**](https://github.com/zkmkarlsruhe/exhibition-vm-controller) | - | VM management for digital art conservation. |
 | [**museum-label**](https://github.com/zkmkarlsruhe/museum-label) | 2 | Auto-adaptive multilingual museum labels. |
-| [**baton**](https://github.com/zkmkarlsruhe/baton) | 4 | UDP/WebSocket message relay. |
-| [**thoscy**](https://github.com/zkmkarlsruhe/thoscy) | 3 | Thingsboard to OSC relay. |
 | [**serial-button-osc**](https://github.com/zkmkarlsruhe/serial-button-osc) | 3 | Physical button → OSC messages. |
+| [**thoscy**](https://github.com/zkmkarlsruhe/thoscy) | 3 | Thingsboard to OSC relay. |
+| [**wayback-cache-proxy**](https://github.com/zkmkarlsruhe/wayback-cache-proxy) | 1 | Caching Wayback Machine proxy for museum exhibitions. |
 
 ### GitLab Projects
 
@@ -105,6 +106,7 @@ Tools for running exhibitions, managing displays, and visitor interaction.
 | [Generic Exhibition Platform](https://git.zkm.de/Hertz-Lab/beyond-matter/generic-exhibition-platform) | Reusable digital exhibition framework. |
 | [intelligent-things](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/intelligent-things) | IoT data system using MQTT. |
 | [skeeter](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/skeeter) | MQTT ↔ OSC bridge. |
+
 
 ---
 
@@ -115,9 +117,9 @@ Hardware interfaces and sensor processing tools.
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [**lidar**](https://github.com/zkmkarlsruhe/lidar) | 7 | LIDAR processing tools for spatial detection. |
-| [**tfluna**](https://github.com/zkmkarlsruhe/tfluna) | 3 | TF-Luna LIDAR sensor → OSC/UDP/Thingsboard. |
-| [**stingyraycontrol9000**](https://github.com/zkmkarlsruhe/stingyraycontrol9000) | - | Cascadable LED driver for art installations (hardware). |
 | [**SOMA-Junction**](https://github.com/zkmkarlsruhe/SOMA-Junction) | - | Junction box for SOMA lighting (hardware). |
+| [**stingyraycontrol9000**](https://github.com/zkmkarlsruhe/stingyraycontrol9000) | - | Cascadable LED driver for art installations (hardware). |
+| [**tfluna**](https://github.com/zkmkarlsruhe/tfluna) | 3 | TF-Luna LIDAR sensor → OSC/UDP/Thingsboard. |
 
 ---
 
@@ -148,9 +150,9 @@ Utilities for macOS packaging, CI/CD, and development workflows.
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [**js-Gerstner-wave**](https://github.com/zkmkarlsruhe/js-Gerstner-wave) | 1 | Interactive Gerstner wave simulation. |
 | [**mac-dist-helper**](https://github.com/zkmkarlsruhe/mac-dist-helper) | 10 | macOS app packaging, code signing, and notarization. |
 | [**mac-dist-helper-examples**](https://github.com/zkmkarlsruhe/mac-dist-helper-examples) | 2 | Example projects for mac-dist-helper. |
-| [**js-Gerstner-wave**](https://github.com/zkmkarlsruhe/js-Gerstner-wave) | 1 | Interactive Gerstner wave simulation. |
 
 ### GitLab Templates
 
