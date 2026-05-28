@@ -67,6 +67,7 @@ Core libraries and applications for AI/ML in creative contexts.
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [**ask-zkm-ai-blueprint**](https://github.com/zkmkarlsruhe/ask-zkm-ai-blueprint) | - | Blueprint for a sovereign, transparent multi-user LLM assistant (the ask.zkm.ai stack). |
 | [**HandTracker**](https://github.com/zkmkarlsruhe/HandTracker) | 6 | Hand tracking using ofxTensorFlow2. |
 | [**language-identification**](https://github.com/zkmkarlsruhe/language-identification) | 41 | Spoken language detection using deep learning. |
 | [**LanguageIdentifier**](https://github.com/zkmkarlsruhe/LanguageIdentifier) | 1 | Language identification app (openFrameworks). |
@@ -96,6 +97,7 @@ Tools for running exhibitions, managing displays, and visitor interaction.
 | [**filterdns-client**](https://github.com/zkmkarlsruhe/filterdns-client) | - | Desktop client for FilterDNS (Linux/macOS/Windows). |
 | [**gallerycontrol**](https://github.com/zkmkarlsruhe/gallerycontrol) | - | Centralized exhibition device control (PJLink, NETIO, ANEL, SSH). |
 | [**museum-label**](https://github.com/zkmkarlsruhe/museum-label) | 2 | Auto-adaptive multilingual museum labels. |
+| [**netart-extinction**](https://github.com/zkmkarlsruhe/netart-extinction) | 1 | Documenting how dependency changes break digital artworks. |
 | [**serial-button-osc**](https://github.com/zkmkarlsruhe/serial-button-osc) | 3 | Physical button → OSC messages. |
 | [**thoscy**](https://github.com/zkmkarlsruhe/thoscy) | 3 | Thingsboard to OSC relay. |
 | [**wayback-cache-proxy**](https://github.com/zkmkarlsruhe/wayback-cache-proxy) | 1 | Caching Wayback Machine proxy for museum exhibitions. |
