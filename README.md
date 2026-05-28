@@ -94,6 +94,7 @@ Tools for running exhibitions, managing displays, and visitor interaction.
 | [**exhibition-vm-controller**](https://github.com/zkmkarlsruhe/exhibition-vm-controller) | - | VM management for digital art conservation. |
 | [**filterdns**](https://github.com/zkmkarlsruhe/filterdns) | - | Self-hosted DNS filtering with per-profile config. |
 | [**filterdns-client**](https://github.com/zkmkarlsruhe/filterdns-client) | - | Desktop client for FilterDNS (Linux/macOS/Windows). |
+| [**gallerycontrol**](https://github.com/zkmkarlsruhe/gallerycontrol) | - | Centralized exhibition device control (PJLink, NETIO, ANEL, SSH). |
 | [**museum-label**](https://github.com/zkmkarlsruhe/museum-label) | 2 | Auto-adaptive multilingual museum labels. |
 | [**serial-button-osc**](https://github.com/zkmkarlsruhe/serial-button-osc) | 3 | Physical button → OSC messages. |
 | [**thoscy**](https://github.com/zkmkarlsruhe/thoscy) | 3 | Thingsboard to OSC relay. |
